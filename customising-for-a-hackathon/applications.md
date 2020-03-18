@@ -35,7 +35,3 @@ You only need to set `DROPBOX_API_TOKEN` if you plan on using CVs
 * Favicon
 * Logo
 
-
-
-
-
